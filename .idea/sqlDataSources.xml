@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="3165c850-24a2-4afa-bbba-cb731c183c3c" name="sky Mapping">
+      <data-sources db="bfbda215-1c77-45bd-905f-952fffb914f1" ddl="8f43d112-12bb-400c-a2f4-1cb77ee69877" />
+      <scope>
+        <node kind="database" negative="1" />
+      </scope>
+    </mapping>
+  </component>
+</project>
